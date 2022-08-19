@@ -15,6 +15,4 @@ RSpec.describe "count_words method" do
         end
     end
 
-
-
 end
