@@ -64,4 +64,5 @@ RSpec.describe DiaryEntry do
                 expect{(diary_entry.reading_time(0))}.to raise_error "WPM must be positive."
             end
         end
+        
     end
