@@ -9,5 +9,4 @@ class TodoList
     def list
       @todo_list
     end
-  
 end

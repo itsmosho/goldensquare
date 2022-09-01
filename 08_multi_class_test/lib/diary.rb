@@ -52,3 +52,4 @@ class Diary
     end
   end
   
+  
